@@ -160,8 +160,3 @@ Iterate over the entire `menuLinks` array and for each "link" object:
 
 <img src="https://i.imgur.com/pWu6yHO.png">
 
-## Solution
-
-Don't peek!
-
-[Solution](https://repl.it/@jim_clark/DOM-Menu-Lab-Part-1)
